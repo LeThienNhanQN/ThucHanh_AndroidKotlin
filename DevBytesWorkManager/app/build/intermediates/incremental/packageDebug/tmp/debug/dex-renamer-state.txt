@@ -1,0 +1,10 @@
+#Sat May 22 15:20:29 ICT 2021
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=D\:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=D\:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

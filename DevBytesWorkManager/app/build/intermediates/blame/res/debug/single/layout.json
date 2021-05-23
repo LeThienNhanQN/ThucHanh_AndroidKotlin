@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dev_byte.xml",
+        "source": "D:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\src\\main\\res\\layout\\fragment_dev_byte.xml"
+    },
+    {
+        "merged": "D:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\devbyte_item.xml",
+        "source": "D:\\DaiHocNamHai-Ki2\\ThucHanh_KolinAndroid\\android-kotlin-fundamentals-apps-master\\DevBytesWorkManager\\app\\src\\main\\res\\layout\\devbyte_item.xml"
+    }
+]
